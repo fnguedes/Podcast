@@ -7,7 +7,7 @@
 
 # 📜Podcast da história do React Native
 
-Escute um aúdio e história criados por IA e revisada por humanos sobre como foi feito o react native.
+Escute um audio e história criados por IA e revisada por humanos sobre como foi feito o react native.
 
 ## 💻 Tecnologias utilizadas no projeto
 
